@@ -5,7 +5,7 @@
     "repository": "https://github.com/jane/example",
     "logo": "https://chatsecure.org/images/logo.png",
     "success_url": "/api/v1/",
-    "stack": "heroku-20"
+    "stack": "heroku-20",
     "keywords": [
         "push messaging",
         "privacy",
